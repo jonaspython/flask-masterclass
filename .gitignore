@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.flask-masterclass
 # C extensions
 *.so
+
+.gitignore
 
 # Distribution / packaging
 .Python
